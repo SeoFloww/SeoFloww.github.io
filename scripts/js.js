@@ -16,7 +16,5 @@ burgerBtn.addEventListener('click', () => {
         body.style.overflow = 'auto';
     }
 })
-console.log(header)
-
 
 AOS.init();
