@@ -115,10 +115,6 @@
 /* ==================================== BURGER ========================= */
 
 
-body{
-    overflow-x: hidden;
-}
-
 .header_container{
     padding-top: 20px;
     height: 970px;

@@ -119,6 +119,7 @@ button:focus {
 
 /* Модификация скролла для Mozilla*/ 
 html, body {
+    overflow-x: hidden;
     scrollbar-color:  rgba(0, 0, 0, 0.2) transparent;
     scrollbar-width: 8px;
     background-color: #FFFFFF;
